@@ -2,7 +2,7 @@
   "name": "my-cool-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mike-shang.github.io/react-test-1/",
+  "homepage": "https://mike-shang.github.io/react-test-2/",
   "dependencies": {
     "@tanstack/react-table": "^8.21.2",
     "@testing-library/dom": "^10.4.0",
